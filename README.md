@@ -100,7 +100,7 @@ Performance metrics were computed using:
 
 * `cancer_rate.ipynb` → Jupyter Notebook containing all code and analysis steps
 * `README.md` → Project documentation (this file)
-* `data/` → link
+* `data/` → link provided above
 
 
 
